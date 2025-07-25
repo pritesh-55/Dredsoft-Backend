@@ -30,7 +30,7 @@ Swagger UI: http://localhost:5000/api-docs
 ---
 
 ## 📂 Project Structure
-
+```bash
 src/
 ├── config/             # Database connection
 ├── controllers/        # Route logic
@@ -42,7 +42,7 @@ src/
 ├── utils/              # Swagger setup and helpers
 ├── app.js              # Express app setup
 └── server.js           # Entry point
-
+```
 ---
 
 ## 📦 Installation & Setup
